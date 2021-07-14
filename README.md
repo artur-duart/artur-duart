@@ -21,3 +21,7 @@ My name is Artur Duarte, I'm 16 years old and I'm starting my career developing 
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=artur-duart&show_icons=true&theme=synthwave&hide_border=true&bg_color=DEG,feda75,fa7e1e,d62976,e11e57,962fbf,4f5bd5&title_color=fff&text_color=fff&icon_color=fff" />
     </a>
   </div>
+  
+<hr>
+  
+  ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
