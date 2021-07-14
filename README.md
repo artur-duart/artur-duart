@@ -13,3 +13,11 @@ My name is Artur Duarte, I'm 16 years old and I'm starting my career developing 
 ### Contact-me in:
   [![Linkedin](https://img.shields.io/badge/Linkedin-2867b2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artur-duarte-5141aa212)
   [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arturduartemoraes@gmail.com)
+
+<hr>
+
+  <div align="center">
+    <a href="https://github.com/anuraghazra/convoychat">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=artur-duart&show_icons=true&theme=synthwave&hide_border=true&bg_color=DEG,feda75,fa7e1e,d62976,e11e57,962fbf,4f5bd5&title_color=fff&text_color=fff&icon_color=fff" />
+    </a>
+  </div>
