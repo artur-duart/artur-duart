@@ -24,4 +24,4 @@ My name is Artur Duarte, I'm 16 years old and I'm starting my career developing 
   
 <hr>
   
-  ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/artur-duart/artur-duart/blob/output/github-contribution-grid-snake.svg)
