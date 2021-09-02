@@ -1,6 +1,8 @@
 ## Hi dev, welcome to my GitHub! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 My name is Artur Duarte, I'm 16 years old and I'm starting my career developing systems. At 11 I had my first contact with this area through block programming, after 5 years I decided to try again. I am currently studying the 2nd semester of Systems Development at SENAI and working at SESI.
 
+<hr>
+
 ### I’m currently learning:
 
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
