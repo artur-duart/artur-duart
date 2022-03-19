@@ -40,12 +40,12 @@ class About extends Me
 
 <hr>
 
-  <div align="center" style="width=100vw">
-    <a href="https://github.com/artur-duart/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=artur-duart&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Artur's github stats"/>
-    </a>
+  <div align="center" >
     <a href="https://github.com/artur-duart/github-readme-stats">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artur-duart&layout=compact&theme=buefy&hide_border=true"/>
+    </a>
+    <a href="https://github.com/artur-duart/github-readme-stats">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=artur-duart&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Artur's github stats"/>
     </a>
   </div>
   
