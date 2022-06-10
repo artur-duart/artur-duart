@@ -1,4 +1,4 @@
-## Hi dev, I'm Artur! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+## Hi dev, I'm Artur! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="15px">
 
 <em>
   Systems Development Student at <a href="https://jandira.sp.senai.br/">SENAI Jandira</a>
