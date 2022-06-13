@@ -31,7 +31,7 @@ class About extends Me
             PHP::class,
             Java::class,
             Kotlin::class,
-            MySQL::class,
+            SQL::class,
         ];
     }
 }
