@@ -1,11 +1,5 @@
 ## Hi dev, I'm Artur!
 
-<em>
-  Systems Development Student at <a href="https://jandira.sp.senai.br/">SENAI Jandira</a>
-  </br>
-  Information Systems Programmer at <a href="https://www.sesisp.org.br/">SESI-SP</a>
-</em>
-
 </br>
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-2867b2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artur-duarte-5141aa212)
