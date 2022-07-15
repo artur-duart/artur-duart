@@ -29,7 +29,7 @@ My name is Artur Duarte and I'm a full stack developer! I finished the Systems D
 
 - 🎓 I finished the technical course in Systems Development at [SENAI Jandira](https://jandira.sp.senai.br/) June 2022.
 
-- 🔭 I'm always open to discovering new things..
+- 🔭 I'm always open to discovering new things.
 
 ### GitHub Analytics
 
