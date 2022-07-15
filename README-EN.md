@@ -23,7 +23,7 @@ My name is Artur Duarte and I'm a full stack developer! I finished the Systems D
 
 💾 Storage in relational databases (SQL), such as MySQL
 
-### About me
+### About me:
 
 - 💻 I worked as a Young Apprentice at [SESI](https://www.sesisp.org.br/).
 
@@ -31,7 +31,7 @@ My name is Artur Duarte and I'm a full stack developer! I finished the Systems D
 
 - 🔭 I'm always open to discovering new things.
 
-### GitHub Analytics
+### GitHub Analytics:
 
 <div align="center">
   <a href="https://github.com/artur-duart">

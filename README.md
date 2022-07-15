@@ -8,12 +8,12 @@
 
 Meu nome é Artur Duarte e sou desenvolvedor full stack! Concluí o curso técnico de Desenvolvimento de Sistemas e estou aprimorando cada vez mais meus conhecimentos técnicos, pronto para poder usar a programação para impactar cada vez mais vidas!
 
-### Contate-me em
+### Contate-me em:
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-2867b2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artur-duarte-5141aa212)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arturduartemoraes@gmail.com)
 
-### Atualmente minha stack é
+### Atualmente minha stack é:
 
 📱 Aplicativos para dispositivos móveis com Java/Kotlin (Apenas Android)
 
@@ -23,7 +23,7 @@ Meu nome é Artur Duarte e sou desenvolvedor full stack! Concluí o curso técni
 
 💾 Armazenamento em bancos de dados relacionais (SQL) como MySQL
 
-### Sobre mim
+### Sobre mim:
 
 - 💻 Trabalhei como Jovem Aprendiz no [SESI](https://www.sesisp.org.br/).
 
@@ -31,7 +31,7 @@ Meu nome é Artur Duarte e sou desenvolvedor full stack! Concluí o curso técni
 
 - 🔭 Estou sempre aberto para descobrir coisas novas.
 
-### Análise do GitHub
+### Análises do GitHub:
 
 <div align="center">
   <a href="https://github.com/artur-duart">
