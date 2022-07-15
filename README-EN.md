@@ -8,12 +8,12 @@
 
 My name is Artur Duarte and I'm a full stack developer! I finished the Systems Development technical course and I'm improving my technical knowledge more and more, ready to use programming to impact more and more lives!
 
-### Currently my stack is:
+### Contact me on:
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-2867b2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artur-duarte-5141aa212)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arturduartemoraes@gmail.com)
 
-### Atualmente minha stack é
+### Currently my stack is:
 
 📱 Mobile apps with Java/Kotlin (Android only)
 
