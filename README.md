@@ -29,7 +29,7 @@ Meu nome é Artur Duarte e sou desenvolvedor full stack! Concluí o curso técni
 
 - 🎓 Finalizei o curso técnico de Desenvolvimento de Sistemas no [SENAI Jandira](https://jandira.sp.senai.br/) em Junho de 2022.
 
-- 🔭 Estou sempre aberto para descobrir coisas novas.
+- 🔭 Estou sempre aberto para descobrir coisas novas.
 
 ### Análises do GitHub:
 
