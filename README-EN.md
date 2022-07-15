@@ -2,36 +2,36 @@
   <img align="right" src="./img/js-framework-rafiki.png" alt="a dev" width=40% height=40% />
 </a>
 
-## Fala, dev! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">
+## Sup, dev! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">
 
-<a href="https://github.com/artur-duart/artur-duart/blob/main/README-EN.md">🇺🇸 Do not speak Portuguese? Click here to view the English version.</a>
+<a href="https://github.com/artur-duart/artur-duart/blob/main/README.md">🇧🇷 Você não fala inglês? Clique aqui para ler a versão em português.</a>
 
-Meu nome é Artur Duarte e sou desenvolvedor full stack! Concluí o curso técnico de Desenvolvimento de Sistemas e estou aprimorando cada vez mais meus conhecimentos técnicos, pronto para poder usar a programação para impactar cada vez mais vidas!
+My name is Artur Duarte and I'm a full stack developer! I finished the Systems Development technical course and I'm improving my technical knowledge more and more, ready to use programming to impact more and more lives!
 
-### Contate-me em
+### Currently my stack is:
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-2867b2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artur-duarte-5141aa212)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arturduartemoraes@gmail.com)
 
 ### Atualmente minha stack é
 
-📱 Aplicativos para dispositivos móveis com Java/Kotlin (Apenas Android)
+📱 Mobile apps with Java/Kotlin (Android only)
 
-💻 Desenvolvimento Web front-end com HTML5, CSS3 e JS
+💻 Front-end web development with HTML, CSS and JS
 
-📡 APIs REST utilizando Node.js ou PHP
+📡 REST APIs using Node.js or PHP
 
-💾 Armazenamento em bancos de dados relacionais (SQL) como MySQL
+💾 Storage in relational databases (SQL), such as MySQL
 
-### Sobre mim
+### About me
 
-- 💻 Trabalhei como Jovem Aprendiz no [SESI](https://www.sesisp.org.br/).
+- 💻 I worked as a Young Apprentice at [SESI](https://www.sesisp.org.br/).
 
-- 🎓 Finalizei o curso técnico de Desenvolvimento de Sistemas no [SENAI Jandira](https://jandira.sp.senai.br/) em Junho de 2022.
+- 🎓 I finished the technical course in Systems Development at [SENAI Jandira](https://jandira.sp.senai.br/) June 2022.
 
-- 🔭 Estou sempre aberto para descobrir coisas novas.
+- 🔭 I'm always open to discovering new things..
 
-### Análise do GitHub
+### GitHub Analytics
 
 <div align="center">
   <a href="https://github.com/artur-duart">
