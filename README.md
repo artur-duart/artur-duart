@@ -25,7 +25,7 @@ Meu nome é Artur Duarte e sou desenvolvedor full stack! Concluí o curso técni
 
 ### Sobre mim:
 
-- 💻 Atualmente trabalho na [Hanesbrands Inc.](https://www.hanesbrands.com.br/).
+- 💻 Atualmente trabalho na [Hanesbrands Inc.](https://www.hanesbrands.com.br/)
 
 - 🎓 Finalizei o curso técnico de Desenvolvimento de Sistemas no [SENAI Jandira](https://jandira.sp.senai.br/) em Junho de 2022.
 

@@ -25,7 +25,7 @@ My name is Artur Duarte and I'm a full stack developer! I finished the Systems D
 
 ### About me:
 
-- 💻 I'm currently working at [Hanesbrands Inc.](https://www.hanesbrands.com.br/).
+- 💻 I'm currently working at [Hanesbrands Inc.](https://www.hanesbrands.com.br/)
 
 - 🎓 I finished the technical course in Systems Development at [SENAI Jandira](https://jandira.sp.senai.br/) June 2022.
 
