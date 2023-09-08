@@ -25,7 +25,7 @@ Meu nome é Artur Duarte e sou desenvolvedor full stack! Concluí o curso técni
 
 ### Sobre mim:
 
-- 💻 Atualmente trabalho na [Hanesbrands Inc.](https://www.hanesbrands.com.br/)
+- 💻 Atualmente trabalho no [Banco Bradesco](https://banco.bradesco/)
 
 - 👨‍💻 Estou realizando o tecnólogo em Sistemas para Internet na [FIAP](https://www.fiap.com.br//), com conclusão prevista para Dezembro de 2024.
 
