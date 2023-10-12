@@ -2,21 +2,21 @@
   <img align="right" src="./img/js-framework-rafiki.png" alt="a dev" width=40% height=40% />
 </a>
 
-# Hello, world! I'm Artur Duarte 👋
+# Olá, mundo! Eu sou o Artur Duarte 👋
 
-🇧🇷 Você não fala inglês? [Clique aqui](README.pt.md) para ler a versão em português.
+🇺🇸 Don't speak Portuguese? [Click here](README.md) to read the English version.
 
-## 🚀 About me
+## 🚀 Sobre mim
 
-- 💻 I currently work at [Banco Bradesco S.A](https://banco.bradesco/)
+- 💻 Atualmente trabalho no [Banco Bradesco S.A](https://banco.bradesco/)
 
-- 👨‍💻 I'm doing a technologist degree in Internet Systems at [FIAP](https://www.fiap.com.br//), with expected completion in December 2024.
+- 👨‍💻 Estou realizando o tecnólogo em Sistemas para Internet na [FIAP](https://www.fiap.com.br//), com conclusão prevista para Dezembro de 2024.
 
-- 🎓 I completed a technical course in Systems Development at [SENAI Jandira](https://jandira.sp.senai.br/) in June 2022.
+- 🎓 Finalizei o curso técnico de Desenvolvimento de Sistemas no [SENAI Jandira](https://jandira.sp.senai.br/) em Junho de 2022.
 
-- 🔭 I'm always open to discovering new things.
+- 🔭 Estou sempre aberto para descobrir coisas novas.
 
-## 🛠️ Technologies I use in my daily life
+## 🛠️ Tecnologias que uso no meu dia a dia
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -24,12 +24,13 @@
   </a>
 </p>
 
-## 📫 How to reach Me
+
+## 📫 Como me encontrar
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-2867b2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artur-duarte-5141aa212)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arturduartemoraes@gmail.com)
 
-## 📊 My GitHub statistics
+## 📊 Minhas estatísticas do GitHub
 
 <div align=center>
   <a href="#">
