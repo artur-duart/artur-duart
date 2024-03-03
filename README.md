@@ -16,7 +16,7 @@
 
 - 🔭 I'm always open to discovering new things.
 
-## 🛠️ Technologies I use in my daily life
+## 🛠️ Technologies I've already used
 
 <p align="left">
   <a href="https://skillicons.dev">
