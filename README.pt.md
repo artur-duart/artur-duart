@@ -1,42 +1,60 @@
-<a href="https://storyset.com/web">
-  <img align="right" src="./img/js-framework-rafiki.png" alt="a dev" width=40% height=40% />
-</a>
+<h1 align="center">Olá, mundo! Eu sou o Artur Duarte 👋</h1>
 
-# Olá, mundo! Eu sou o Artur Duarte 👋
-
-🇺🇸 Don't speak Portuguese? [Click here](README.md) to read the English version.
-
-## 🚀 Sobre mim
-
-- 💻 Atualmente trabalho no [Banco Bradesco S.A](https://banco.bradesco/)
-
-- 👨‍💻 Estou realizando o tecnólogo em Sistemas para Internet na [FIAP](https://www.fiap.com.br//), com conclusão prevista para Dezembro de 2024.
-
-- 🎓 Finalizei o curso técnico de Desenvolvimento de Sistemas no [SENAI Jandira](https://jandira.sp.senai.br/) em Junho de 2022.
-
-- 🔭 Estou sempre aberto para descobrir coisas novas.
-
-## 🛠️ Tecnologias que já usei
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,html,css,js,ts,react,nodejs,php,mysql,figma&theme=dark" />
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2496ED&center=true&vCenter=true&width=560&lines=Entusiasta+de+DevOps+%26+Cloud;Containers+%E2%80%A2+Kubernetes+%E2%80%A2+AWS;Automatizando+o+trabalho+repetitivo;Sempre+aprendendo%2C+sempre+entregando" alt="Typing SVG" />
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=artur-duart&style=flat-square&color=2496ED" alt="visualizações do perfil" />
+  &nbsp;🇺🇸 Don't speak Portuguese? <a href="README.md">Click here</a> for the English version.
+</p>
+
+---
+
+## 🚀 Sobre mim
+
+- ☁️ Cursando **DevOps & Arquitetura Cloud** na [FIAP](https://www.fiap.com.br/) (Postech) — previsão 01/2027
+- 💻 **IT Operation Engineer** no [Banco Bradesco S.A](https://banco.bradesco/)
+- 🚀 Mergulhando no **ciclo DevOps completo** — containers, Kubernetes, IaC, CI/CD, observabilidade e nuvem (AWS · Azure · GCP)
+- 🧩 Com foco em infraestrutura **confiável, escalável e automatizada**, com mentalidade **SRE & DevSecOps**
+- 🌱 Sempre aprendendo, sempre entregando — e aberto a descobrir coisas novas
+
+## 🧰 Tecnologias & Ferramentas
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,terraform,nginx,linux,bash,git,githubactions,prometheus,grafana&theme=dark" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>➕ Também explorando: <b>Helm</b> · <b>KEDA</b> · <b>OpenTelemetry</b> · <b>Loki</b> · <b>RBAC</b></sub>
+</p>
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=artur-duart&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artur-duart&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=artur-duart&theme=tokyonight&hide_border=true" alt="streak" />
+</div>
+
+<picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=artur-duart&theme=tokyo-night&hide_border=true&area=true" alt="gráfico de atividade" />
+</picture>
 
 ## 📫 Como me encontrar
 
-[![Linkedin](https://img.shields.io/badge/Linkedin-2867b2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artur-duarte-5141aa212)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arturduartemoraes@gmail.com)
-
-## 📊 Minhas estatísticas do GitHub
-
-<div align=center>
-  <a href="#">
-    <img height=180em src=https://github-readme-stats.vercel.app/api?username=artur-duart&show_icons=true&theme=dracula&include_all_commits=true&count_private=true>
-    <img height=180em src=https://github-readme-stats.vercel.app/api/top-langs/?username=artur-duart&layout=compact&langs_count=7&theme=dracula>
+<p align="left">
+  <a href="https://www.linkedin.com/in/artur-duarte-5141aa212">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</div>
-
-![Snake animation](https://github.com/artur-duart/artur-duart/blob/output/github-contribution-grid-snake.svg)
+  <a href="mailto:arturduartemoraes@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
